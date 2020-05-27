@@ -1,0 +1,42 @@
+Enter Size of List :
+5
+Enter element: 3
+Enter element: 2
+Enter element: 4
+Enter element: 1
+Enter element: 0
+
+List is as follows[3, 2, 4, 1, 0]
+Enter Element to insert at FRONT: 
+9
+Enter Element to insert at END: 
+6
+Modified List is [9, 3, 2, 4, 1, 0, 6]
+Enter Element to insert at position: 
+10
+Enter position to insert ELement: 
+4
+Modified List is [9, 3, 2, 4, 10, 1, 0, 6]
+Removing elements from both sides!
+Modified List is [3, 2, 4, 10, 1, 0]
+Enter element to remove: 
+0
+List After Deletion: [3, 2, 4, 10, 1]
+Sorted List: [1, 2, 3, 4, 10]
+Enter element to find position: 
+4
+Position of 4 in list : 3
+Displaying list in forward order [1, 2, 3, 4, 10]
+
+Displaying list in reverse order
+
+Algorithm Manner
+[10, 4, 3, 2, 1]
+
+Un Algorithm Manner
+123410
+
+The Total is: 20
+The Average IS:4
+Newly Created List is: [2, 1]
+

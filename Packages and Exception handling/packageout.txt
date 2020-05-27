@@ -1,0 +1,89 @@
+
+	MENU
+1.Dollar to INR
+2.INR to Dollar
+3.Euro to INR
+4.INR to Euro
+5.Yen to INR
+6.INR to Yen
+7.Exit
+Enter your choice: 1
+
+Enter the dollar: 25.5
+Dollar to INR is 
+1845.44
+	MENU
+1.Dollar to INR
+2.INR to Dollar
+3.Euro to INR
+4.INR to Euro
+5.Yen to INR
+6.INR to Yen
+7.Exit
+Enter your choice: 2    
+
+Enter the rupees: 1845.44
+INR to dollar is 
+25.50
+	MENU
+1.Dollar to INR
+2.INR to Dollar
+3.Euro to INR
+4.INR to Euro
+5.Yen to INR
+6.INR to Yen
+7.Exit
+Enter your choice: 3
+
+Enter the yen: 14
+yen to INR is 
+9.52
+	MENU
+1.Dollar to INR
+2.INR to Dollar
+3.Euro to INR
+4.INR to Euro
+5.Yen to INR
+6.INR to Yen
+7.Exit
+Enter your choice: 4
+
+Enter the rupees: 9.52
+INR to yen is 
+14.00
+	MENU
+1.Dollar to INR
+2.INR to Dollar
+3.Euro to INR
+4.INR to Euro
+5.Yen to INR
+6.INR to Yen
+7.Exit
+Enter your choice: 5
+
+Enter the euro: 24
+Euro to INR is 
+1899.12
+	MENU
+1.Dollar to INR
+2.INR to Dollar
+3.Euro to INR
+4.INR to Euro
+5.Yen to INR
+6.INR to Yen
+7.Exit
+Enter your choice: 6
+
+Enter the rupees: 1899.12
+INR to euro is 
+24.00
+	MENU
+1.Dollar to INR
+2.INR to Dollar
+3.Euro to INR
+4.INR to Euro
+5.Yen to INR
+6.INR to Yen
+7.Exit
+Enter your choice: 7
+

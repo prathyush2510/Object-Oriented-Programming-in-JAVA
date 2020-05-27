@@ -1,0 +1,58 @@
+run:
+
+MENU
+1.Sphere
+2.Cube
+Enter your chioce :1
+
+Enter the radius : 2
+
+	<<< Displaying the details >>>
+
+radius   : 2.0
+volume   : 33.493336
+sur.Area : 50.24
+
+Do you want to continue? (y/n)
+Enter your choice : y
+
+MENU
+1.Sphere
+2.Cube
+Enter your chioce :1
+
+Enter the radius : two
+	<<<Exception caught inside Sphere >>>
+java.lang.NumberFormatException: For input string: "two"
+
+Do you want to continue? (y/n)
+Enter your choice : y
+
+MENU
+1.Sphere
+2.Cube
+Enter your chioce :2
+
+Enter the side   : 2
+
+	<<< Displaying the details >>>
+
+side     : 2.0
+volume   : 8.0
+sur.Area : 24.0
+
+Do you want to continue? (y/n)
+Enter your choice : y
+
+MENU
+1.Sphere
+2.Cube
+Enter your chioce :2
+
+Enter the side   : thre
+	<<<Exception caught inside Cube >>>
+java.lang.NumberFormatException: For input string: "thre"
+
+Do you want to continue? (y/n)
+Enter your choice : n
+BUILD SUCCESSFUL (total time: 28 seconds)

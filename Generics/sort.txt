@@ -1,0 +1,52 @@
+
+1.Integer Array
+2.Double Array
+3.String Array
+4.Exit
+Enter your choice: 1
+Enter the size of the array: 5
+Enter the elements: 3
+6 9 4 8
+
+Sorted Array: 
+3	
+4	
+6	
+8	
+9	
+********************************
+
+1.Integer Array
+2.Double Array
+3.String Array
+4.Exit
+Enter your choice: 2
+Enter the size of the array: 3  
+Enter the elements: 4.6 8.9 7.6
+
+Sorted Array: 
+4.6	
+7.6	
+8.9	
+********************************
+
+1.Integer Array
+2.Double Array
+3.String Array
+4.Exit
+Enter your choice: 3
+Enter the size of the array: 3  
+Enter the elements: ram hari prathyush
+
+Sorted Array: 
+hari	
+prathyush	
+ram	
+********************************
+
+1.Integer Array
+2.Double Array
+3.String Array
+4.Exit
+Enter your choice: 4
+

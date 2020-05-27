@@ -1,0 +1,97 @@
+Enter No. of Students: 
+3
+********************
+Menu
+1.Enter student details
+2.Calculate Grade and Display for all
+3.Generate marksheet for a particular student
+4.Search for a record using register no.
+5.Search for a record using department
+6.Exit
+Enter your choice(1-6): 
+1
+Enter Register NO.: 1
+Enter Student Name: Prathyu
+Enter Department: CSE
+Enter Marks in 3 subjects: 90
+80
+95
+*******************
+Enter Register NO.: 2
+Enter Student Name: Praveen
+Enter Department: ECE
+Enter Marks in 3 subjects: 80 90 98
+*******************
+Enter Register NO.: 3
+Enter Student Name: kumar
+Enter Department: CSE
+Enter Marks in 3 subjects: 80 70 90
+*******************
+********************
+Menu
+1.Enter student details
+2.Calculate Grade and Display for all
+3.Generate marksheet for a particular student
+4.Search for a record using register no.
+5.Search for a record using department
+6.Exit
+Enter your choice(1-6): 
+2
+regno	name	total	grade
+1	Prathyu	265.0	A+
+2	Praveen	268.0	A+
+3	kumar	240.0	A
+********************
+Menu
+1.Enter student details
+2.Calculate Grade and Display for all
+3.Generate marksheet for a particular student
+4.Search for a record using register no.
+5.Search for a record using department
+6.Exit
+Enter your choice(1-6): 
+3
+Enter Register no.: 2
+***************
+Regiser No		: 2
+Name			: Praveen
+Department		: ECE
+Marks in 3 subjects	: 80.0	90.0	98.0	
+Total			: 238.0
+Grade			: A+
+********************
+Menu
+1.Enter student details
+2.Calculate Grade and Display for all
+3.Generate marksheet for a particular student
+4.Search for a record using register no.
+5.Search for a record using department
+6.Exit
+Enter your choice(1-6): 
+4
+Enter Register no.: 1
+Record Found
+********************
+Menu
+1.Enter student details
+2.Calculate Grade and Display for all
+3.Generate marksheet for a particular student
+4.Search for a record using register no.
+5.Search for a record using department
+6.Exit
+Enter your choice(1-6): 
+5
+Enter department:  CSE
+1	Prathyu	CSE
+3	kumar	CSE
+********************
+Menu
+1.Enter student details
+2.Calculate Grade and Display for all
+3.Generate marksheet for a particular student
+4.Search for a record using register no.
+5.Search for a record using department
+6.Exit
+Enter your choice(1-6): 
+6
+

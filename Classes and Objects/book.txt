@@ -1,0 +1,41 @@
+Enter Author name: 
+Prathyush
+Enter Author email id: 
+prathyush@gmail.com
+Enter Author's gender: 
+M
+Enter book name: 
+vjhsa
+Enter book price: 
+200
+Enter book qty: 
+300
+#####################################################
+Enter Author name: 
+Praveen
+Enter Author email id: 
+praveen@gmail.com
+Enter Author's gender: 
+M
+Enter book name: 
+abcd
+Enter book price: 
+300
+Enter book qty: 
+400
+#####################################################
+Book name	: vjhsa
+Author name	: Prathyush
+Author email	: prathyush@gmail.com
+Gender		: M
+Book price	: 200.0
+Book Qty	: 300
+#####################################################
+Book name	: abcd
+Author name	: Praveen
+Author email	: praveen@gmail.com
+Gender		: M
+Book price	: 300.0
+Book Qty	: 400
+#####################################################
+

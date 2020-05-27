@@ -1,0 +1,64 @@
+Enter consumer ID : 1
+
+Enter consumer name : Prathyu
+
+1.domestic 
+2.commercial
+Enter the type of connection: 1
+
+previous reading : 200
+current reading : 300
+Invalid choice: 
+
+
+*************************************************
+ Consumer ID            : 1.0
+ Consumer name          : Prathyu
+ Electricity type       : 1
+*************************************************
+
+
+        Previous month reading   : 200.0
+        Current month reading    : 300.0
+                         ------------------------
+        total unit consumed      : 100.0
+                         ------------------------
+
+
+          You need to pay : Rs:200.0/- only
+
+
+*************************************************
+
+Enter consumer ID : 2
+
+Enter consumer name : Praveen
+
+1.domestic 
+2.commercial
+Enter the type of connection: 2
+
+previous reading : 300
+current reading : 500
+Invalid choice: 
+
+
+*************************************************
+ Consumer ID            : 2.0
+ Consumer name          : Praveen
+ Electricity type       : 2
+*************************************************
+
+
+        Previous month reading   : 300.0
+        Current month reading    : 500.0
+                         ------------------------
+        total unit consumed      : 200.0
+                         ------------------------
+
+
+          You need to pay : Rs:500.0/- only
+
+
+*************************************************
+

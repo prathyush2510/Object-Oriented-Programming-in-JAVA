@@ -1,0 +1,256 @@
+****************************************
+
+
+Enter the choice:
+---1---Signup
+---2---Login
+---3---Exit
+
+****************************************
+1
+Enter username
+Prasanna
+-----
+Enter your new password
+1234
+-----
+Re-Enter your new password
+3456
+-----
+Passwords doesnot match.Try again
+Enter your new password
+1234
+-----
+Re-Enter your new password
+1234
+-----
+Enter the Security question in case you forgot your password
+what is your last name?
+-----
+Enter Answer for the Security question
+kumar
+-----
+Enter ID Number
+7
+-----
+Enter Your E-Mail
+prasanna@gmail.com
+-----
+Enter Your Address
+chennai
+-----
+Enter Your Phone Number
+9863234178
+-----
+****************************************
+
+
+Enter the choice:
+---1---Signup
+---2---Login
+---3---Exit
+
+****************************************
+2
+Enter sign in details...
+-----
+Enter User name
+qwerty
+-----
+Exception Account Not Found! !
+Enter sign in details...
+-----
+Enter User name
+Prasanna
+-----
+Enter Your Password
+5678
+-----
+Exception password do not match !
+****************************************
+Password Incorrect
+Enter 0 to abort...
+Enter 1 if you forgot password 
+Enter 2 to try again 
+****************************************
+1
+Answer security question : what is your last name?
+kumar
+-----
+Enter your new password
+ssn
+-----
+Re-Enter your new password
+ssn
+-----
+Enter sign in details...
+-----
+Enter User name
+Prasanna
+-----
+Enter Your Password
+ssn
+-----
+Login successfull..
+-----
+****************************************
+
+Enter Choice 
+---1--- Display non-sensitive details 
+---2--- Display all details 
+---3---Edit Details 
+---4---Exit
+
+****************************************
+1
+
+Name        :Prasanna
+ID          :7
+E-Mail      :prasanna@gmail.com
+Address     :chennai
+Phone       :9863234178
+****************************************
+
+Enter Choice 
+---1--- Display non-sensitive details 
+---2--- Display all details 
+---3---Edit Details 
+---4---Exit
+
+****************************************
+2
+
+Name              : Prasanna
+Password          : ssn
+Security question : what is your last name?
+Security Answer   : kumar
+ID                : 7
+E-Mail            : prasanna@gmail.com
+Address           : chennai
+Phone             : 9863234178
+****************************************
+
+Enter Choice 
+---1--- Display non-sensitive details 
+---2--- Display all details 
+---3---Edit Details 
+---4---Exit
+
+****************************************
+3
+Enter the detail to be edited 
+---1---Name 
+---2---Password 
+---3---Security question 
+---4---Security answer 
+---5---ID 
+---6---Email 
+---7---Address 
+---8---Phone number 
+---9---Exit
+6
+
+Enter the new email
+prasannakumar@gmail.com
+Enter the detail to be edited 
+---1---Name 
+---2---Password 
+---3---Security question 
+---4---Security answer 
+---5---ID 
+---6---Email 
+---7---Address 
+---8---Phone number 
+---9---Exit
+9
+Exit edit
+****************************************
+
+Enter Choice 
+---1--- Display non-sensitive details 
+---2--- Display all details 
+---3---Edit Details 
+---4---Exit
+
+****************************************
+3
+Enter the detail to be edited 
+---1---Name 
+---2---Password 
+---3---Security question 
+---4---Security answer 
+---5---ID 
+---6---Email 
+---7---Address 
+---8---Phone number 
+---9---Exit
+8
+
+Enter the new name
+9876543210
+Enter the detail to be edited 
+---1---Name 
+---2---Password 
+---3---Security question 
+---4---Security answer 
+---5---ID 
+---6---Email 
+---7---Address 
+---8---Phone number 
+---9---Exit
+7
+
+Enter the new address
+Nungambakkam
+Enter the detail to be edited 
+---1---Name 
+---2---Password 
+---3---Security question 
+---4---Security answer 
+---5---ID 
+---6---Email 
+---7---Address 
+---8---Phone number 
+---9---Exit
+9
+Exit edit
+****************************************
+
+Enter Choice 
+---1--- Display non-sensitive details 
+---2--- Display all details 
+---3---Edit Details 
+---4---Exit
+
+****************************************
+2
+
+Name              : Prasanna
+Password          : ssn
+Security question : what is your last name?
+Security Answer   : kumar
+ID                : 7
+E-Mail            : prasannakumar@gmail.com
+Address           : Nungambakkam
+Phone             : 9876543210
+****************************************
+
+Enter Choice 
+---1--- Display non-sensitive details 
+---2--- Display all details 
+---3---Edit Details 
+---4---Exit
+
+****************************************
+4
+****************************************
+
+
+Enter the choice:
+---1---Signup
+---2---Login
+---3---Exit
+
+****************************************
+3
+

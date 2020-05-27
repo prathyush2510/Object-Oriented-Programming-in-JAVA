@@ -1,0 +1,234 @@
+Choose
+1.Circle
+2.Rectanagle
+3.Square
+4.Exit
+1
+
+Testing Circle class 
+Choose
+1.without Parameters
+2.with radius
+3.with radius and color
+4.Exit
+1
+
+Inside Circle class 
+**********************************
+Radius    : 1.0
+Color     : red
+Area      : 3.14
+Perimeter : 6.28
+**********************************
+
+Testing Circle class 
+Choose
+1.without Parameters
+2.with radius
+3.with radius and color
+4.Exit
+2
+Enter the radius: 5
+
+Inside Circle class 
+**********************************
+Radius    : 5.0
+Color     : red
+Area      : 78.5
+Perimeter : 31.400002
+**********************************
+
+Testing Circle class 
+Choose
+1.without Parameters
+2.with radius
+3.with radius and color
+4.Exit
+3
+Enter the radius: 6
+Enter the color: green
+
+Inside Circle class 
+**********************************
+Radius    : 6.0
+Color     : green
+Area      : 113.04
+Perimeter : 37.68
+**********************************
+
+Testing Circle class 
+Choose
+1.without Parameters
+2.with radius
+3.with radius and color
+4.Exit
+4
+
+Inside Circle class 
+**********************************
+Radius    : 6.0
+Color     : green
+Area      : 113.04
+Perimeter : 37.68
+**********************************
+Choose
+1.Circle
+2.Rectanagle
+3.Square
+4.Exit
+2
+
+Testing Rectangle class 
+Choose
+1.Without parameters
+2.with l&b
+3.with l&b and color
+4.Exit
+1
+
+Inside Rectangle class 
+**********************************
+Width     : 1.0
+Length    : 1.0
+color     : red
+Area      : 1.0
+Perimeter : 4.0
+**********************************
+
+Testing Rectangle class 
+Choose
+1.Without parameters
+2.with l&b
+3.with l&b and color
+4.Exit
+2
+Enter the length: 5
+Enter the breadth: 6
+
+Inside Rectangle class 
+**********************************
+Width     : 5.0
+Length    : 6.0
+color     : red
+Area      : 30.0
+Perimeter : 22.0
+**********************************
+
+Testing Rectangle class 
+Choose
+1.Without parameters
+2.with l&b
+3.with l&b and color
+4.Exit
+3
+Enter the length: 6 
+Enter the width: 7
+Enter the color: blue
+
+Inside Rectangle class 
+**********************************
+Width     : 6.0
+Length    : 7.0
+color     : blue
+Area      : 42.0
+Perimeter : 26.0
+**********************************
+
+Testing Rectangle class 
+Choose
+1.Without parameters
+2.with l&b
+3.with l&b and color
+4.Exit
+4
+
+Inside Rectangle class 
+**********************************
+Width     : 6.0
+Length    : 7.0
+color     : blue
+Area      : 42.0
+Perimeter : 26.0
+**********************************
+Choose
+1.Circle
+2.Rectanagle
+3.Square
+4.Exit
+3
+
+Testing Square class 
+Choose
+1.without parameters
+2.with side
+3.with side and color
+4.Exit
+1
+
+Inside Square class 
+**********************************
+side  : 1.0
+color : red
+Area      : 1.0
+Perimeter : 4.0
+**********************************
+
+Testing Square class 
+Choose
+1.without parameters
+2.with side
+3.with side and color
+4.Exit
+2
+Enter the side: 5
+
+Inside Square class 
+**********************************
+side  : 5.0
+color : red
+Area      : 25.0
+Perimeter : 20.0
+**********************************
+
+Testing Square class 
+Choose
+1.without parameters
+2.with side
+3.with side and color
+4.Exit
+3
+Enter the side: 6
+Enter the color: orange
+
+Inside Square class 
+**********************************
+side  : 6.0
+color : orange
+Area      : 36.0
+Perimeter : 24.0
+**********************************
+
+Testing Square class 
+Choose
+1.without parameters
+2.with side
+3.with side and color
+4.Exit
+4
+
+Inside Square class 
+**********************************
+side  : 6.0
+color : orange
+Area      : 36.0
+Perimeter : 24.0
+**********************************
+Choose
+1.Circle
+2.Rectanagle
+3.Square
+4.Exit
+4
+
+!!! THANK YOU.... !!!
+

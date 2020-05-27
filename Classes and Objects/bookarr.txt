@@ -1,0 +1,72 @@
+Enter  no. of Authors: 
+3
+Enter Author name: 
+ram
+Enter Author email id: 
+ram@gmail.com
+Enter Author's gender: 
+m
+Enter Author name: 
+das
+Enter Author email id: 
+das@gmail.com
+Enter Author's gender: 
+m
+Enter Author name: 
+kumar
+Enter Author email id: 
+kumar@gmail.com
+Enter Author's gender: 
+m
+Enter book name: 
+abcd
+Enter book price: 
+500
+Enter book qty: 
+200
+#####################################################
+Enter  no. of Authors: 
+2
+Enter Author name: 
+raj
+Enter Author email id: 
+raj@gmail.com
+Enter Author's gender: 
+m
+Enter Author name: 
+arun
+Enter Author email id: 
+arun@gmail.com
+Enter Author's gender: 
+m
+Enter book name: 
+efgh
+Enter book price: 
+600
+Enter book qty: 
+390
+#####################################################
+Book name	: abcd
+Author name	: ram
+Author email	: ram@gmail.com
+Gender		: m
+Author name	: das
+Author email	: das@gmail.com
+Gender		: m
+Author name	: kumar
+Author email	: kumar@gmail.com
+Gender		: m
+Book price	: 500.0
+Book Qty	: 200
+#####################################################
+Book name	: efgh
+Author name	: raj
+Author email	: raj@gmail.com
+Gender		: m
+Author name	: arun
+Author email	: arun@gmail.com
+Gender		: m
+Book price	: 600.0
+Book Qty	: 390
+#####################################################
+

@@ -1,0 +1,74 @@
+************Circle***********
+Enter the radius
+5
+Enter the colour
+orange
+*******************CIRCLE DETAILS******************
+Radius    :5.0
+************Rectangle***********
+Enter the width
+5
+Enter the length
+6
+Enter the colour
+black
+*******************RECTANGLE DETAILS******************
+Width     :5.0
+Length    :6.0
+************Square***********
+Enter the side
+10
+Enter the colour
+yellow
+*******************SQUARE DETAILS******************
+Side      :10.0
+*******************Area and Perimeter of different shapes*******************
+*******************CIRCLE DETAILS******************
+without parameters
+Color     :Red
+Area      :3.14
+Perimeter :6.28
+
+with one parameters
+Color     :Red
+Area      :78.5
+Perimeter :31.400002
+
+with two parameters
+Color     :orange
+Area      :78.5
+Perimeter :31.400002
+
+*******************RECTANGLE DETAILS******************
+without parameters
+Color     :Red
+Area      :1.0
+Perimeter :4.0
+
+with two parameters
+Color     :Red
+Area      :30.0
+Perimeter :22.0
+
+with three parameters
+Color     :black
+Area      :30.0
+Perimeter :22.0
+
+*******************SQUARE DETAILS******************
+without parameters
+Color     :Red
+Area      :1.0
+Perimeter :4.0
+
+with one parameters
+Color     :Red
+Area      :100.0
+Perimeter :40.0
+
+with two parameters
+Color     :yellow
+Area      :100.0
+Perimeter :40.0
+
+

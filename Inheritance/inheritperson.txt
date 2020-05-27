@@ -1,0 +1,70 @@
+Enter the choice
+1.Enter Student Details
+2.Enter Faculty details
+3.Exit
+1
+Testing Sub-Class :	Student 
+Enter Student Name: Prathyush
+Enter Student Address: kljjdnc
+Enter Student Gender ( M / F ): M
+Enter Student Aadhar: 78340267209
+Enter Student Program: Coding
+Enter Student Year: 2
+Enter Total Mark: 90
+
+Enter your Choice 
+1.Print the Details	(or)	2.Continue Execution
+1
+Student Details 
+**********************************
+ Name :Prathyush
+ Address :kljjdnc
+ Aadhar :78340267209
+ Gender :M
+ Program :Coding
+ Year :2
+ Total Mark :90.0
+ GPA :9.0
+**********************************
+
+Choose
+1.Change the Details	(or)	2.Exit
+2
+
+Enter the choice
+1.Enter Student Details
+2.Enter Faculty details
+3.Exit
+2
+Testing Sub-CLass :	Faculty 
+Enter Faculty Name: Praveen
+Enter Faculty Address: uipodw
+Enter Faculty Gender ( M / F )M
+Enter Faculty Aadhar: 89042134443
+Enter Faculty Designation: Prof
+Enter Faculty Department: CSE
+Enter Faculty Basic Pay: 50000
+
+Enter your Choice 
+1.Print the Details	(or)	2.Continue Execution
+1
+Faculty Details 
+**********************************
+ Name :Praveen
+ Address :uipodw
+ Aadhar :78340267209
+ Gender :M
+ Designation :Prof
+ Basic Pay :50000.0
+ Salary :76750.0
+**********************************
+
+Choose
+1.Change the Details	(or)	2.Exit
+2
+
+Enter the choice
+1.Enter Student Details
+2.Enter Faculty details
+3.Exit
+3

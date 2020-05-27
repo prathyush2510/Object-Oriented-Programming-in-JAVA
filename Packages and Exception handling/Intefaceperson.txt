@@ -1,0 +1,96 @@
+MENU
+Enter your choice:
+1-Employee
+2-Faculty
+3-Research Assistant
+4-Exit
+ 
+1
+ENTER DETAILS-
+Name	:Prathyush
+Emp_ID	:1
+Address	:chennai
+Dept	:cse
+Basic	:50000
+
+DETAILS
+
+******************************
+Name	:Prathyush
+Address	:chennai
+Emp_id	:1
+Dept	:cse
+Basic	:50000
+Salary	:76750.0
+******************************
+MENU
+Enter your choice:
+1-Employee
+2-Faculty
+3-Research Assistant
+4-Exit
+ 
+2
+ENTER DETAILS-
+Name	:Praveen
+Emp_ID	:2
+Address	:chennai
+Dept	:cse
+Basic	:30000
+Desig	:prof
+Course	:java
+
+DETAILS
+
+******************************
+Name	:Praveen
+Address	:chennai
+Emp_id	:2
+Dept	:cse
+Basic	:30000
+Desig	:prof
+Course	:java
+Salary	:42000.0
+******************************
+MENU
+Enter your choice:
+1-Employee
+2-Faculty
+3-Research Assistant
+4-Exit
+ 
+3
+ENTER DETAILS-
+Name	:kumar
+Emp_ID	:3
+Address	:chennai
+Dept	:ece
+Basic	:20000
+Project	:AI
+Course	:Python
+Enter the mark 1: 90 
+Enter the mark 2: 80
+Enter the mark 3: 90
+
+DETAILS
+
+Name	:kumar
+Address	:chennai
+Emp_id	:3
+Dept	:ece
+Basic	:20000
+Project	:AI
+Course	:Python
+Marks	:90.0	80.0	90.0
+GPA	:8.666667
+Salary	:25800.0
+******************************
+MENU
+Enter your choice:
+1-Employee
+2-Faculty
+3-Research Assistant
+4-Exit
+ 
+4
+

@@ -1,0 +1,51 @@
+Enter String: Hello
+Enter String: Ramakrishnan
+Enter String: Hi
+Enter String: Rage
+Enter String: Andrew
+Enter String: Bye
+Enter String: Daniel
+Enter String: Nolan
+Enter String: Inception
+Enter String: Interstellar
+
+List After Adding 10 Elements: [Hello, Ramakrishnan, Hi, Rage, Andrew, Bye, Daniel, Nolan, Inception, Interstellar]
+
+Enter String to enter at speciic position: 
+Dunkirk
+
+Enter position to insert element in list: 
+3
+
+List After Inserting ELement : [Hello, Ramakrishnan, Hi, Dunkirk, Rage, Andrew, Bye, Daniel, Nolan, Inception, Interstellar]
+
+Enter element to display occurence: 
+Hi
+
+Occurence: 
+1
+Enter Letter to find String that starts with it: 
+R
+Strings that start with R are
+Ramakrishnan Rage 
+
+Enter SubString: 
+iel
+Strings that contain the Substring are: 
+Daniel 
+
+Enter String to replace
+Rage
+Enter replacement String
+Rampage
+
+List After Replacement: [Hello, Ramakrishnan, Hi, Dunkirk, Rampage, Andrew, Bye, Daniel, Nolan, Inception, Interstellar]
+
+Enter element to remove: 
+Inception
+
+List After Removal: [Hello, Ramakrishnan, Hi, Dunkirk, Rampage, Andrew, Bye, Daniel, Nolan, Interstellar]
+
+After Removal of Duplicates: [Hi, Interstellar, Hello, Rampage, Andrew, Nolan, Dunkirk, Daniel, Ramakrishnan, Bye]
+
+Displaying List: [Hi, Interstellar, Hello, Rampage, Andrew, Nolan, Dunkirk, Daniel, Ramakrishnan, Bye]

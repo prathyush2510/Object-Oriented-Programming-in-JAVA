@@ -1,0 +1,30 @@
+Enter your guess: 50
+
+Try higher: 
+
+Enter your guess: 75
+
+Try higher: 
+
+Enter your guess: 87
+
+Try higher: 
+
+Enter your guess: 95
+
+Try higher: 
+
+Enter your guess: 99
+
+Try low: 
+
+Enter your guess: 96
+
+Try higher: 
+
+Enter your guess: 97
+
+You got it in 7 trials
+
+The computer generated value is :97
+

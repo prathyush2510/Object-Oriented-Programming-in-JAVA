@@ -1,0 +1,147 @@
+﻿sboxes@osboxes:~/Desktop$ java ErrorHandling
+Enter no of people
+3
+Enter customer name 
+pooja
+Enter account number
+123
+Enter Branch
+chennai
+Enter Balance
+50000
+Do you have a PAN no?
+yes
+Enter PAN No.
+12345678
+Enter customer name 
+praveen
+Enter account number
+456
+Enter Branch
+trichy
+Enter Balance
+800
+Do you have a PAN no?
+no
+Enter customer name 
+prathyush
+Enter account number
+789
+Enter Branch
+pollachi
+Enter Balance
+50000 
+Do you have a PAN no?
+yes
+Enter PAN No.
+675984
+ 1. Deposit .
+ 2. Withdraw .
+ 3. Search .
+ 4 .Exit .
+Enter choice 
+1
+Enter account no for deposit
+123
+Enter amount to be deposited
+10000
+*************************************************
+ Account Details 
+Name             : pooja
+PAN     	      : 12345678
+Branch           : chennai
+Previous Balance : 50000.0
+New Balance      : 60000.0
+*************************************************
+ 1. Deposit .
+ 2. Withdraw .
+ 3. Search .
+ 4 .Exit .
+Enter choice 
+1
+Enter account no for deposit
+456
+Enter amount to be deposited
+1
+*************************************************
+ Account Details 
+Name             : praveen
+PAN     	      : None
+Branch           : trichy
+Previous Balance : 800.0
+New Balance      : 801.0
+*************************************************
+ 1. Deposit .
+ 2. Withdraw .
+ 3. Search .
+ 4 .Exit .
+Enter choice 
+2
+Enter account no for withdrawal
+456
+Enter amount to be withdrawn
+10000
+Exception : Not Enough Money ![4]
+New Balance      : 801.0
+ 1. Deposit .
+ 2. Withdraw .
+ 3. Search .
+ 4 .Exit .
+Enter choice 
+2
+Enter account no for withdrawal
+456
+Enter amount to be withdrawn
+200
+Exception : Amount Too High! Minimum Baance required![3]
+New Balance      : 801.0
+ 1. Deposit .
+ 2. Withdraw .
+ 3. Search .
+ 4 .Exit .
+Enter choice 
+1
+Enter account no for deposit
+456
+Enter amount to be deposited
+600000
+Exception : PAN Required[1]
+9894440
+*************************************************
+ Account Details 
+Name             : praveen
+PAN     	      : 9894440
+Branch           : trichy
+Previous Balance : 801.0
+New Balance      : 600801.0
+*************************************************
+ 1. Deposit .
+ 2. Withdraw .
+ 3. Search .
+ 4 .Exit .
+Enter choice 
+3
+Enter account number to be searched
+123
+***************Account Found****************
+Account Details :
+Name    : pooja
+PAN     : 12345678
+Branch  : chennai
+Balance : 60000.0
+ 1. Deposit .
+ 2. Withdraw .
+ 3. Search .
+ 4 .Exit .
+Enter choice 
+3
+Enter account number to be searched
+231
+Exception : Account Not Found! ![2]
+ 1. Deposit .
+ 2. Withdraw .
+ 3. Search .
+ 4 .Exit .
+Enter choice 
+
+

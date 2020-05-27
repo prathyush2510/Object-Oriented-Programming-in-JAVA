@@ -1,0 +1,318 @@
+1 - String Stack
+2 - Double Stack
+3 - Integer Stack
+4 - Exit
+Enter the option to be performed: 1
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+1
+Enter the value to push: prathyush
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+1
+Enter the value to push: praveen
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+1
+Enter the value to push: kumar
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+1
+Enter the value to push: ram
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+1
+Enter the value to push: hari
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+5
+Stack is Full
+********************************
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+3
+
+The Elements present in the stack are:
+hari 
+ram 
+kumar 
+praveen 
+prathyush 
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+2
+Popped String: hari
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+3
+
+The Elements present in the stack are:
+ram 
+kumar 
+praveen 
+prathyush 
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+6
+The Stack is Cleared
+********************************
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+4
+Stack is Empty
+********************************
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+3
+
+Stack Empty!
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+7
+1 - String Stack
+2 - Double Stack
+3 - Integer Stack
+4 - Exit
+Enter the option to be performed: 1
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+1
+Enter the value to push: 1
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+1
+Enter the value to push: 2
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+1
+Enter the value to push: 3
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+1
+Enter the value to push: 4
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+1
+Enter the value to push: 5
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+3
+
+The Elements present in the stack are:
+5 
+4 
+3 
+2 
+1 
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+4
+Stack is not Empty
+********************************
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+5
+Stack is Full
+********************************
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+2
+Popped String: 5
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+6
+The Stack is Cleared
+********************************
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+4
+Stack is Empty
+********************************
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+3
+
+Stack Empty!
+----------------------------
+1 - Push the element to the stack
+2 - Pop the elemnt from the stack
+3 - Display the stack
+4 - The stack is Empty
+5- The stack is Full
+6 -clear the stack
+7 - Back
+Enter the choice to be performed: 
+7
+1 - String Stack
+2 - Double Stack
+3 - Integer Stack
+4 - Exit
+Enter the option to be performed: 4
+Thankyou!!!!
+

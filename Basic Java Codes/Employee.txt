@@ -1,0 +1,167 @@
+Enter the number of employees: 3
+
+choose
+1.Enter the Employee Details
+2.Display Employee Records
+3.Generate payslip for an Emplyee
+4.Promote an Emplpoyee
+5.Exit
+
+Enter your choice: 1
+
+Employee record: 1
+Enter the Employee id: 1
+Enter the Employee NAME: Prathyu
+Enter the DATE of BIRTH:(DD/MM/YY) 25/10/2000
+Enter the DATE of JOINING:(DD/MM/YY) 1/1/2008
+Enter the designation: Manager
+Enter the basic pay: 50000
+Does Employee Opt for LIC Premium Account? (1. Yes / 2. No): 1
+Enter the LIC value: 1000
+Invalid
+
+Employee record: 2
+Enter the Employee id: 2
+Enter the Employee NAME: Praveen
+Enter the DATE of BIRTH:(DD/MM/YY) 02/11/2000
+Enter the DATE of JOINING:(DD/MM/YY) 1/1/2007
+Enter the designation: others
+Enter the basic pay: 40000
+Does Employee Opt for LIC Premium Account? (1. Yes / 2. No): 2
+
+Employee record: 3
+Enter the Employee id: 3
+Enter the Employee NAME: Kumar
+Enter the DATE of BIRTH:(DD/MM/YY) 24/08/2000
+Enter the DATE of JOINING:(DD/MM/YY) 1/1/2006
+Enter the designation: intern
+Enter the NO. of HOUR worked :10
+Enter the hour wage: 500
+Does Employee Opt for LIC Premium Account? (1. Yes / 2. No): 2
+
+choose
+1.Enter the Employee Details
+2.Display Employee Records
+3.Generate payslip for an Emplyee
+4.Promote an Emplpoyee
+5.Exit
+
+Enter your choice: 2
+
+Empolyee record: 1
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ID          : 1             NAME : Prathyu
+designation : Manager
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     basic pay  : Rs:50000/-
+     gross pay  : Rs:0/-
+     deductions : Rs:0/-
+               ------------------------------
+                net salary : Rs:0/-
+
+Empolyee record: 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ID          : 2             NAME : Praveen
+designation : others
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     basic pay  : Rs:40000/-
+     gross pay  : Rs:56000/-
+     deductions : Rs:3200/-
+               ------------------------------
+                net salary : Rs:52800/-
+
+Empolyee record: 3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ID          : 3             NAME : Kumar
+designation : intern
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+No.of hours worked : Rs:10 Hours
+     Hourly wage   : Rs:500/-
+     gross pay     : Rs:8000/-
+     deductions    : Rs:500/-
+               ----------------------------------
+                    net salary : Rs:7500/-
+
+choose
+1.Enter the Employee Details
+2.Display Employee Records
+3.Generate payslip for an Emplyee
+4.Promote an Emplpoyee
+5.Exit
+
+Enter your choice: 3
+Enter the Employee id: 2
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ ID          : 2            NAME : Praveen
+ D.O.B       : 02/11/2000    D.O.J : 01/01/2007
+ designation : others
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     basic pay  : Rs:40000/-
+     DA         : Rs:12000/-
+     HRA        : Rs:4000/-
+     LIC        : not opted
+     PF         : Rs:3200/-
+     gross pay  : Rs:56000/-
+     deductions : Rs:3200/-
+               -----------------------------
+                net salary : Rs:52800/-
+
+choose
+1.Enter the Employee Details
+2.Display Employee Records
+3.Generate payslip for an Emplyee
+4.Promote an Emplpoyee
+5.Exit
+
+Enter your choice: 4
+Enter the Employee id: 1
+
+Employee 1 details: 
+
+Manager cannot be promoted!!!
+
+
+choose
+1.Enter the Employee Details
+2.Display Employee Records
+3.Generate payslip for an Emplyee
+4.Promote an Emplpoyee
+5.Exit
+
+Enter your choice: 4
+Enter the Employee id: 2
+
+Employee 2 details: 
+
+congrats,Praveen!!!
+you are promoted to manager!!!
+
+
+choose
+1.Enter the Employee Details
+2.Display Employee Records
+3.Generate payslip for an Emplyee
+4.Promote an Emplpoyee
+5.Exit
+
+Enter your choice: 4
+Enter the Employee id: 3
+
+Employee 3 details: 
+
+congrats,Kumar!!!
+you are promoted to others!!!
+
+
+Enter the basic pay: 
+20000
+
+choose
+1.Enter the Employee Details
+2.Display Employee Records
+3.Generate payslip for an Emplyee
+4.Promote an Emplpoyee
+5.Exit
+
+Enter your choice: 5
+
